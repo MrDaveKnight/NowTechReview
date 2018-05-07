@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Tech Review</name>
+        <order/>
+        <roles>x_snc_tech_review.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>dave.knight</sys_created_by>
+        <sys_created_on>2018-05-07 02:06:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3e9e59ebdbb19300d88e594e5e961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tech Review</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Review" source="x_snc_tech_review">d69e19ebdbb19300d88e594e5e96198a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Review">d69e19ebdbb19300d88e594e5e96198a</sys_scope>
+        <sys_update_name>sys_ui_application_3e9e59ebdbb19300d88e594e5e961967</sys_update_name>
+        <sys_updated_by>dave.knight</sys_updated_by>
+        <sys_updated_on>2018-05-07 02:06:57</sys_updated_on>
+    </sys_ui_application>
+</record_update>
